@@ -43,6 +43,7 @@ ol {
   display: flex;
   justify-content: end;
   padding: 133px 30px;
+  margin: auto;
 }
 
 .result {
