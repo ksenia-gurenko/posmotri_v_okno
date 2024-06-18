@@ -254,8 +254,9 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 18px;
-  max-height: 320px;
+  max-height: 303px;
   overflow: auto;
+  overflow-x: hidden;
 }
 
 .content__list li:empty{
